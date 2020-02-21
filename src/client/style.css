@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  flex: 1;
+  height: 50%;
+  width: 50%;
+  display: flex;
+}
+
+div {
+  font-size: 28px;
+}

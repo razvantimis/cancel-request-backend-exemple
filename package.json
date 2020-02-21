@@ -1,0 +1,19 @@
+{
+  "name": "cancel-request-exemple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/server/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@marblejs/core": "^2.3.1",
+    "@marblejs/middleware-body": "^2.3.1",
+    "@marblejs/middleware-logger": "^2.3.1",
+    "rxjs": "^6.5.4",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.8.2"
+  }
+}
